@@ -9,24 +9,18 @@
 
 <br>
 
-- 🔭 I’m currently Student on Malikussaleh University  
+🔭 I’m currently Student on Malikussaleh University  
   
-
-- 🌱 I’m currently learning I'm learning about different technologies and frameworks from JavaScript   
+🌱 I’m currently learning I'm learning about different technologies and frameworks from JavaScript   
   
-
-- ❓ Ask me about anything related to IoT technology   
+❓ Ask me about anything related to IoT technology   
   
-
-- 👀 Open and happy to collaborate on IoT project   
+👀 Open and happy to collaborate on IoT project   
   
-
-- ⚡ Happy to collaborate on IoT project and likes to play football and basketball 🤩⚽🏀   
+⚡ Happy to collaborate on IoT project and likes to play football and basketball 🤩⚽🏀   
   
-
-- 📫 How to reach me: mishlahbuanaangkasa@gmail.com | buana@gariskode.com   
+📫 How to reach me: mishlahbuanaangkasa@gmail.com | buana@gariskode.com   
   
-
 <br/>  
 
 
