@@ -1,6 +1,4 @@
-<div align="center">
 <div class="tenor-gif-embed" data-postid="21188384" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/emo-gif-21188384">Emo Sticker</a>from <a href="https://tenor.com/search/emo-stickers">Emo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>  
   
 
 ### <div align="center">My name is M Ishlah Buana Angkasa, mostly my friends call me Buana, I'm interested in various IoT technologies and a full-time full-stack IoT freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
