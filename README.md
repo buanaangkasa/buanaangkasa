@@ -1,4 +1,4 @@
-![Emo GIF](https://tenor.com/view/emo-gif-21188384)
+![Emo GIF](https://media.tenor.com/n53f5g-plM0AAAAi/emo.gif)
 
 ### <div align="center">My name is M Ishlah Buana Angkasa, mostly my friends call me Buana, I'm interested in various IoT technologies and a full-time full-stack IoT freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
