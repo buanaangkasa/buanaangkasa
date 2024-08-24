@@ -4,14 +4,8 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&pause=600&color=2939F7&center=true&vCenter=true&width=498&lines=Hi+There+%F0%9F%91%8B%F0%9F%91%8B;My+name+is+Muhammad+Ishlah+Buana+Angkasa" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&pause=600&color=2939F7&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B%F0%9F%91%8B;My+name+is+Muhammad+Ishlah+Buana+Angkasa+!!" alt="Typing SVG"/>
   </a>
-  
-  <!-- Tambahkan emoji bergerak di bawah ini -->
-  <br>
-  <img src="https://media.tenor.com/images/3a3572f17b9fb3e0f781f3dca5e7a7f2/tenor.gif" alt="wave emoji" width="50" />
-</div>
-
 
 ### <div align="center">Mostly my friends call me Buana, I'm interested in various IoT technologies and a full-time full-stack IoT freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
