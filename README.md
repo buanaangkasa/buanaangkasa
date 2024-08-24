@@ -11,7 +11,7 @@
 
 🔭 I’m currently Student on Malikussaleh University  
   
-🌱 I’m currently learning I'm learning about different technologies and frameworks from JavaScript   
+🌱 I’m learning about different technologies and frameworks from JavaScript   
   
 ❓ Ask me about anything related to IoT technology   
   
