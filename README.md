@@ -20,7 +20,14 @@
 ⚡ Happy to collaborate on IoT project and likes to play football and basketball 🤩⚽🏀   
   
 📫 How to reach me: mishlahbuanaangkasa@gmail.com | buana@gariskode.com   
-  
+
+<br/>  
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=buanaangkasa&style=for-the-badge" align="center" />
+</div>  
+
 <br/>  
 
 
@@ -103,13 +110,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=buanaangkasa&show_icons=true&theme=radical" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buanaangkasa&layout=donut&theme=radical" alt="Top Langs" align="center" />
 </div>
-
-<br/>  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=buanaangkasa&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
